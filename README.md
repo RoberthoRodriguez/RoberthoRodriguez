@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Robertho Rodriguez</h1>
 <h3 align="center">Un apasionado Desarrollador Back-End de Perú</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roberthojro&label=Profile%20views&color=0e75b6&style=flat" alt="roberthojro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RoberthoRodriguez&label=Profile%20views&color=0e75b6&style=flat" alt="RoberthoRodriguez" /> </p>
 
 - 🔭 Actualmente estoy trabajando en [Emissary](https://emissary.mx)
 
@@ -42,4 +42,4 @@
  
 ###
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RoberthoRodriguez&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" align="center" /></div>  
+
