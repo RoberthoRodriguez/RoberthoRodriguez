@@ -38,3 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="42" alt="slack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" width="42" alt="trello logo"  />
 </div>
+
+ 
+###
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RoberthoRodriguez&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" align="center" /></div>  
